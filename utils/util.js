@@ -6,10 +6,7 @@ function ageabove18(age){
     return age>=18;
 }
 
-function revertfun(){
-
-}
-
 function newfun(){
     
 }
+
