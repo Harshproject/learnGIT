@@ -5,3 +5,7 @@ function add(a,b){
 function ageabove18(age){
     return age>=18;
 }
+
+function agelessthan80(age){
+    return age<=80;
+}
