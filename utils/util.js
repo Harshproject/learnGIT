@@ -14,3 +14,4 @@ function newfun(){
 //git branch "new branch name"
 //git switch "new branch name"
 //git push --set-upstream origin "new branch name"
+//git merge origin/"new branch name"
