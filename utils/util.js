@@ -15,3 +15,7 @@ function newfun(){
 //git switch "new branch name"
 //git push --set-upstream origin "new branch name"
 //git merge origin/"new branch name"
+//ab agar tum nayi branch bana rahe ho
+//aur owner se chahte ho ki wo tumhari 
+//branch merge karle main me to pull 
+//karega 
