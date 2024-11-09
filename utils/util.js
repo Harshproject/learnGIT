@@ -7,5 +7,9 @@ function ageabove18(age){
 }
 
 function revertfun(){
+
+}
+
+function newfun(){
     
 }
